@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee427700-e2c3-4c9c-b807-01332c35625f" name="Default Changelist" comment="" />
+    <list default="true" id="ee427700-e2c3-4c9c-b807-01332c35625f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/newsInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/newsInfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/newsInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/newsInfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +40,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/newsInfo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="327" column="71" lean-forward="true" selection-start-line="327" selection-start-column="71" selection-end-line="327" selection-end-column="71" />
+            <state relative-caret-position="-1739">
+              <caret line="149" selection-start-line="149" selection-start-column="4" selection-end-line="154" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="342" column="41" selection-start-line="342" selection-start-column="36" selection-end-line="342" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/news.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="200" column="30" selection-start-line="200" selection-start-column="30" selection-end-line="200" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -60,9 +84,10 @@
       <find>uidpk=</find>
       <find>http://localhost:8080</find>
       <find>manage.zhou-yuanwai.com</find>
-      <find>thumbnailurl</find>
       <find>/manage.zhou-yuanwai.com</find>
       <find>https://manage.zhou-yuanwai.com/comprehens/findOne.do</find>
+      <find>thumbnailurl</find>
+      <find>400-999-8017</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -123,10 +148,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="788" />
+    <option name="y" value="64" />
+    <option name="width" value="1549" />
+    <option name="height" value="921" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -134,6 +159,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,8 +190,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,6 +313,10 @@
       <workItem from="1579142233888" duration="1527000" />
       <workItem from="1583134440700" duration="84000" />
       <workItem from="1583197498977" duration="2209000" />
+      <workItem from="1583199746279" duration="1178000" />
+      <workItem from="1583200959539" duration="290000" />
+      <workItem from="1583201288584" duration="265000" />
+      <workItem from="1583202489664" duration="1140000" />
     </task>
     <task id="LOCAL-00001" summary="牛家人pc 页面 第一次提交">
       <created>1583199565224</created>
@@ -296,17 +325,23 @@
       <option name="project" value="LOCAL" />
       <updated>1583199565224</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="牛家人pc 页面 第一次提交">
+      <created>1583199887883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583199887891</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7765000" />
+    <option name="totallyTimeSpent" value="10638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22263949" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23175965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -316,8 +351,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2308546" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21198668" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19866815" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23862375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -328,10 +363,10 @@
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.3917869" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="2" weight="0.27950644" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.17381974" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Database" order="5" weight="0.3299356" />
@@ -340,7 +375,7 @@
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33283132" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29248476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -350,8 +385,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2308546" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.25194228" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19866815" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23862375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -362,10 +397,10 @@
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.16759157" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="2" weight="0.27950644" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.17381974" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Database" order="5" weight="0.3299356" />
@@ -376,6 +411,46 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="牛家人pc 页面 第一次提交" />
@@ -502,24 +577,24 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/images/common/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/newsInfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4077">
-          <caret line="5" column="140" selection-start-line="5" selection-start-column="140" selection-end-line="5" selection-end-column="140" />
+        <state relative-caret-position="-1739">
+          <caret line="149" selection-start-line="149" selection-start-column="4" selection-end-line="154" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/news.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="815">
-          <caret line="257" column="108" selection-start-line="257" selection-start-column="45" selection-end-line="257" selection-end-column="108" />
+        <state relative-caret-position="289">
+          <caret line="200" column="30" selection-start-line="200" selection-start-column="30" selection-end-line="200" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/newsInfo.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="327" column="71" lean-forward="true" selection-start-line="327" selection-start-column="71" selection-end-line="327" selection-end-column="71" />
+        <state relative-caret-position="459">
+          <caret line="342" column="41" selection-start-line="342" selection-start-column="36" selection-end-line="342" selection-end-column="41" />
         </state>
       </provider>
     </entry>
