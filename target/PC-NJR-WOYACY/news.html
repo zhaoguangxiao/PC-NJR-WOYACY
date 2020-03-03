@@ -95,8 +95,8 @@
         <div class="w">
             <span>当前位置：</span>
             <ul ref="newsNav">
-                <li data-type="0" @click="addCurrent($event);getNews(1)" class="current">牛家人资讯</li>
-                <li data-type="1" @click="addCurrent($event);getNews(8)">行业动态</li>
+                <li data-type="0" @click="addCurrent($event);getNews(20)" class="current">牛家人资讯</li>
+                <li data-type="1" @click="addCurrent($event);getNews(20)">行业动态</li>
             </ul>
         </div>
     </div>
@@ -255,8 +255,7 @@
             },
             // 获取数据
             async getNews(type) {
-                console.log("-------------------------")
-                const res = await axios.get(`https://manage.zhou-yuanwai.com/comprehens/journalism.do?uidpk=${type}`)
+                const res = await axios.get(`https://manage.zhou-yuanwai.com/comprehens/journalism.do?uidpk=20`)
                 console.log(res)
                 if (res.status === 200) {
                     // const arr = this.group(res.data)
@@ -374,7 +373,7 @@
 
 
 <script language=javascript>
-    var LiveReceptionCode_chatexplain_online='牛家人百度品专';
+    var LiveReceptionCode_chatexplain_online='';
     LiveReceptionCode_chatexplain_online=escape(LiveReceptionCode_chatexplain_online);
 </script>
 <script language="javascript" src="http://pyt.zoosnet.net/JS/LsJS.aspx?siteid=PYT62454332&float=1&lng=cn"></script>

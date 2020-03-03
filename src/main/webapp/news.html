@@ -95,8 +95,8 @@
         <div class="w">
             <span>当前位置：</span>
             <ul ref="newsNav">
-                <li data-type="0" @click="addCurrent($event);getNews(1)" class="current">牛家人资讯</li>
-                <li data-type="1" @click="addCurrent($event);getNews(8)">行业动态</li>
+                <li data-type="0" @click="addCurrent($event);getNews(20)" class="current">牛家人资讯</li>
+                <li data-type="1" @click="addCurrent($event);getNews(20)">行业动态</li>
             </ul>
         </div>
     </div>
@@ -255,7 +255,6 @@
             },
             // 获取数据
             async getNews(type) {
-                console.log("-------------------------")
                 const res = await axios.get(`https://manage.zhou-yuanwai.com/comprehens/journalism.do?uidpk=${type}`)
                 console.log(res)
                 if (res.status === 200) {
