@@ -1,0 +1,138 @@
+#newsInfo {
+  background-color: #f3f3f3;
+}
+#newsInfo .bread {
+  padding-left: 22px;
+  height: 61px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+#newsInfo .bread a {
+  font-size: 16px;
+}
+#newsInfo main {
+  padding-bottom: 63px;
+}
+#newsInfo article {
+  width: 845px;
+  background-color: #ffffff;
+  padding: 39px 50px 44px;
+}
+#newsInfo article h1 {
+  font-size: 22px;
+  color: #333;
+}
+#newsInfo article .info {
+  margin-top: 22px;
+  margin-bottom: 32px;
+}
+#newsInfo article .info span {
+  font-size: 14px;
+  color: #c18c47;
+  margin-right: 10px;
+}
+#newsInfo article hr {
+  margin-bottom: 34px;
+}
+#newsInfo article .cont-box p {
+  font-size: 18px;
+  line-height: 28px;
+}
+#newsInfo article .cont-box img {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+#newsInfo .main-right .form {
+  width: 329px;
+  background-color: #ffffff;
+  padding: 18px 32px 15px;
+  margin-bottom: 29px;
+}
+#newsInfo .main-right .form h2 {
+  height: 60px;
+  background-color: #373737;
+  border-radius: 5px;
+  font-size: 20px;
+  color: #fffefe;
+  text-align: center;
+  line-height: 60px;
+  margin-bottom: 20px;
+}
+#newsInfo .main-right .form .sel {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 19px;
+}
+#newsInfo .main-right .form .sel span {
+  width: 129px;
+  height: 54px;
+  border-radius: 5px;
+  border: solid 1px #eaeaea;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+#newsInfo .main-right .form .sel span img {
+  display: block;
+  width: 23px;
+  margin-right: 10px;
+}
+#newsInfo .main-right .form .sel span i {
+  font-size: 18px;
+}
+#newsInfo .main-right .form .sel span:nth-of-type(1) {
+  background-color: #ffffff;
+}
+#newsInfo .main-right .form .sel span:nth-of-type(1) i {
+  color: #333;
+}
+#newsInfo .main-right .form .sel span:nth-of-type(2) {
+  background-color: #00ae66;
+}
+#newsInfo .main-right .form .sel span:nth-of-type(2) i {
+  color: #fff;
+}
+#newsInfo .main-right .form .form-box .el-form-item__content input {
+  height: 50px;
+}
+#newsInfo .main-right .form .form-box .el-form-item__content textarea {
+  height: 89px;
+  min-height: 89px !important;
+  max-height: 89px;
+}
+#newsInfo .main-right .form .form-box .el-form-item__content i.el-input__icon {
+  display: none !important;
+}
+#newsInfo .main-right .form .form-box .el-button {
+  width: 260px;
+  height: 60px;
+  background-color: #c79e68;
+  border-radius: 5px;
+  border: solid 1px #eaeaea;
+  font-size: 20px;
+  color: #fff;
+}
+#newsInfo .main-right .little-news {
+  box-shadow: 1px 2px 9px 0px rgba(0, 0, 0, 0.1);
+}
+#newsInfo .main-right .little-news a img {
+  display: block;
+  width: 329px;
+  height: 310px;
+  object-fit: cover;
+}
+#newsInfo .main-right .little-news a p {
+  width: 329px;
+  background-color: #fff;
+  padding-left: 64px;
+  padding-right: 64px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  line-height: 57px;
+  color: #333;
+  font-size: 18px;
+}
+/*# sourceMappingURL=newsInfo.css.map */

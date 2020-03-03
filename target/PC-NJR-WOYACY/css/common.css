@@ -1,0 +1,179 @@
+/* 头部 */
+header {
+  width: 100%;
+  height: 94px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  background-color: #fff;
+}
+header > div {
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+header > div h1 {
+  flex: 0 0 165px;
+  margin-right: 131px;
+}
+header > div h1 a {
+  display: block;
+  width: 100%;
+}
+header > div h1 a img {
+  display: block;
+  width: 187px;
+}
+header > div .tab-nav {
+  flex-grow: 1;
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+  height: 94px;
+}
+header > div .tab-nav li {
+  flex: 1;
+  height: 100%;
+  cursor: pointer;
+}
+header > div .tab-nav li > a {
+  height: 100%;
+  text-align: center;
+  font-size: 18px;
+  color: #45575e !important;
+  display: flex !important;
+  line-height: 18px;
+  flex-direction: column;
+  justify-content: center;
+}
+header > div .tab-nav li > a span {
+  color: #333;
+}
+header > div .tab-nav li > a span:nth-of-type(1) {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+header > div .tab-nav li > a span:nth-of-type(2) {
+  font-size: 12px;
+}
+header > div .tab-nav .layui-this a span {
+  color: #333 !important;
+}
+header > div .tab-nav .layui-this::after {
+  background-color: #ffc85f;
+}
+header > div .tab-nav .layui-nav .layui-this:after,
+header > div .tab-nav .layui-nav-bar,
+header > div .tab-nav .layui-nav-tree .layui-nav-itemed:after {
+  background-color: #ffc85f;
+}
+header > div .tab-nav .layui-nav-child {
+  top: 94px;
+  background-color: #1f1f1f;
+  border: none;
+}
+header > div .tab-nav .layui-nav-child dd a {
+  color: #ffd35c !important;
+  text-align: center;
+  font-size: 18px;
+  border-bottom: 1px solid #ffd35c;
+}
+header > div .tab-nav .layui-nav-child dd a:hover {
+  background-color: #ffd35c;
+  color: #fff !important;
+}
+header > div .tab-nav .layui-nav-child dd:last-child a {
+  border-bottom: 0;
+}
+header > div .phone {
+  height: 100%;
+  line-height: 100px;
+  display: flex;
+  padding-top: 35px;
+}
+header > div .phone img {
+  display: block;
+  flex: 0 0 40px;
+  height: 40px;
+  vertical-align: middle;
+  margin-right: 16px;
+}
+header > div .phone p i {
+  display: block;
+  line-height: 1.3em;
+  color: #161b1d;
+  font-size: 18px;
+}
+.banner {
+  margin-top: 94px !important;
+}
+/* 底部 */
+footer {
+  background-color: #303030;
+  padding-bottom: 10px;
+}
+footer .line {
+  width: 20px;
+  height: 4px;
+  background-color: #ffda45;
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+footer .footer-title {
+  font-size: 20px;
+  color: #fff;
+}
+footer > div {
+  height: 100%;
+  padding-top: 58px;
+  display: flex;
+  justify-content: flex-start;
+}
+footer > div .footer-logo {
+  margin-right: 165px;
+}
+footer > div .footer-nav {
+  margin-right: 146px;
+}
+footer > div .footer-nav ul li {
+  margin-bottom: 17px;
+}
+footer > div .footer-nav ul li a {
+  font-size: 14px;
+  color: #c9c9c9;
+}
+footer > div .footer-nav ul li:hover a {
+  color: #fff;
+}
+footer > div .footer-contact {
+  margin-right: 134px;
+}
+footer > div .footer-contact .contact-box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 34px;
+}
+footer > div .footer-contact .contact-box img {
+  display: block;
+  width: 30px;
+  margin-right: 20px;
+}
+footer > div .footer-contact .contact-box p {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+footer > div .footer-contact .contact-box p span {
+  font-size: 16px;
+  color: #c9c9c9;
+}
+footer > div .footer-contact .contact-box p span:nth-of-type(1) {
+  margin-bottom: 11px;
+}
+footer > div .footer-contact .contact-box:last-child {
+  margin-bottom: 0;
+}
+/*# sourceMappingURL=common.css.map */

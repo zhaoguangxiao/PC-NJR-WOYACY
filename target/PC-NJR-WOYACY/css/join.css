@@ -1,0 +1,181 @@
+.banner {
+  width: 100%;
+}
+.banner img {
+  display: block;
+  width: 100%;
+}
+.advantage {
+  padding-top: 74px;
+  padding-bottom: 94px;
+}
+.advantage h2 {
+  height: 78px;
+  background: url("../images/join/title01.png") no-repeat center center;
+  background-size: contain;
+  margin-bottom: 72px;
+}
+.advantage .top-nav,
+.advantage .bottom-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.advantage .top-nav .img-item,
+.advantage .bottom-nav .img-item,
+.advantage .top-nav .word-item,
+.advantage .bottom-nav .word-item {
+  cursor: pointer;
+}
+.advantage .top-nav .img-item p:nth-of-type(1),
+.advantage .bottom-nav .img-item p:nth-of-type(1),
+.advantage .top-nav .word-item p:nth-of-type(1),
+.advantage .bottom-nav .word-item p:nth-of-type(1) {
+  font-size: 30px;
+  color: #000;
+}
+.advantage .top-nav .img-item p:nth-of-type(2),
+.advantage .bottom-nav .img-item p:nth-of-type(2),
+.advantage .top-nav .word-item p:nth-of-type(2),
+.advantage .bottom-nav .word-item p:nth-of-type(2) {
+  font-size: 20px;
+  color: #101010;
+}
+.advantage .top-nav .img-item,
+.advantage .bottom-nav .img-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.advantage .top-nav .img-item div,
+.advantage .bottom-nav .img-item div {
+  width: 168px;
+  height: 168px;
+  background-color: rgba(255, 205, 93, 0.83);
+  border-radius: 50%;
+  padding-top: 49px;
+  transition: all 0.3s ease-in-out;
+}
+.advantage .top-nav .img-item div p,
+.advantage .bottom-nav .img-item div p {
+  text-align: center;
+}
+.advantage .top-nav .img-item div p:nth-of-type(1),
+.advantage .bottom-nav .img-item div p:nth-of-type(1) {
+  margin-bottom: 17px;
+}
+.advantage .top-nav .img-item:hover div,
+.advantage .bottom-nav .img-item:hover div {
+  width: 100%;
+  height: 100%;
+  border-radius: 0;
+  padding-top: 180px;
+}
+.advantage .top-nav .word-item p,
+.advantage .bottom-nav .word-item p {
+  text-align: center;
+}
+.advantage .top-nav .word-item p:nth-of-type(1),
+.advantage .bottom-nav .word-item p:nth-of-type(1) {
+  margin-top: 163px;
+  margin-bottom: 26px;
+}
+.advantage .top-nav li:nth-of-type(odd) {
+  flex: 0 0 401px;
+  width: 401px;
+  height: 403px;
+}
+.advantage .top-nav li:nth-of-type(even) {
+  flex: 0 0 364px;
+  width: 364px;
+  height: 371px;
+  background-color: #eeeeee;
+}
+.advantage .top-nav li:nth-of-type(1) {
+  background: url("../images/join/j01.png") no-repeat center center;
+  background-size: cover;
+}
+.advantage .top-nav li:nth-of-type(3) {
+  background: url("../images/join/j02.png") no-repeat center center;
+  background-size: cover;
+}
+.advantage .bottom-nav {
+  margin-top: 17px;
+}
+.advantage .bottom-nav li:nth-of-type(odd) {
+  flex: 0 0 381px;
+  width: 381px;
+  height: 371px;
+  background-color: #eeeeee;
+}
+.advantage .bottom-nav li:nth-of-type(even) {
+  flex: 0 0 401px;
+  width: 401px;
+  height: 403px;
+}
+.advantage .bottom-nav li:nth-of-type(2) {
+  background: url("../images/join/j03.png") no-repeat center center;
+  background-size: cover;
+}
+.guarantee {
+  padding-top: 58px;
+  padding-bottom: 77px;
+  background: url("../images/join/back.png") no-repeat center center;
+  background-size: cover;
+  height: 807px;
+}
+.guarantee h2 {
+  height: 78px;
+  background: url("../images/join/title02.png") no-repeat center center;
+  background-size: contain;
+  margin-bottom: 42px;
+}
+.guarantee img {
+  display: block;
+  box-shadow: 6px 7px 9px 0 rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+.case {
+  padding-top: 79px;
+  padding-bottom: 91px;
+}
+.case h2 {
+  height: 78px;
+  background: url("../images/join/title03.png") no-repeat center center;
+  background-size: contain;
+  margin-bottom: 42px;
+}
+.case ul {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row wrap;
+}
+.case ul li {
+  flex: 0 0 378px;
+  width: 378px;
+  cursor: pointer;
+  box-shadow: 2px 2px 10px 0 rgba(149, 116, 37, 0.31);
+}
+.case ul li img {
+  display: block;
+  width: 378px;
+  height: 263px;
+  object-fit: cover;
+}
+.case ul li p {
+  width: 378px;
+  height: 50px;
+  background-color: #f9dc95;
+  border: 1px solid #f9dc95;
+  line-height: 50px;
+  text-align: center;
+  font-size: 20px;
+  color: #333;
+}
+.case ul li:nth-of-type(-n+3) {
+  margin-bottom: 46px;
+}
+.case ul li:hover p {
+  background-color: #fff;
+}
+/*# sourceMappingURL=join.css.map */

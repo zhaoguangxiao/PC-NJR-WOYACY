@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="味捷餐饮旗下品牌。牛家人大碗牛肉面，新鲜不过夜！">
+    <meta name="description" content="味捷餐饮旗下品牌。牛家人大碗牛肉面，新鲜不过夜！">
+    <title>联系我们</title>
+    <link rel=icon type=image/x-icon href=public/favicon.ico>
+    <!-- 重置页面 -->
+    <link rel="stylesheet" href="css/base.css">
+    <!-- 当页面的css -->
+    <link rel="stylesheet" href="css/newsInfo.css">
+    <link rel="stylesheet" href="css/common.css">
+    <!-- layui.css -->
+    <link rel="stylesheet" href="lib/layui/css/layui.css">
+    <!-- swiper -->
+    <link href="https://cdn.bootcss.com/Swiper/4.5.0/css/swiper.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./lib/pagination/pagination.css">
+    <!-- axios -->
+    <script src="https://cdn.bootcss.com/axios/0.19.0/axios.min.js"></script>
+    <!-- monent -->
+    <script src="./lib/moment/moment.min.js"></script>
+    <!-- vue -->
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="https://cdn.bootcss.com/element-ui/2.12.0/index.js"></script>
+    <script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
+</head>
+<body>
+
+<div id="newsInfo">
+
+    <!-- 导航 -->
+    <header>
+        <div class="w">
+            <h1 class="">
+                <a href="/">
+                    <img src="images/common/logo.png" alt="">
+                </a>
+            </h1>
+
+            <ul class="layui-nav tab-nav" lay-filter="">
+                <li class="layui-nav-item">
+                    <a href="/">
+                        <span>首页</span>
+                        <span>HOME</span>
+                    </a>
+                </li>
+                <li class="layui-nav-item">
+                    <a href="/introduce.html">
+                        <span>关于我们</span>
+                        <span>ABOUT US</span>
+                    </a>
+                    <dl class="layui-nav-child"> <!-- 二级菜单 -->
+                        <dd><a href="./introduce.html">公司介绍</a></dd>
+                        <dd><a href="./introduce.html">品牌实力</a></dd>
+                        <dd><a href="./introduce.html">企业荣誉</a></dd>
+                    </dl>
+                </li>
+                <li class="layui-nav-item">
+                    <a href="/product1.html">
+                        <span>产品展示</span>
+                        <span>PRODUCT</span>
+                    </a>
+                </li>
+                <li class="layui-nav-item">
+                    <a href="/join.html">
+                        <span>招商加盟</span>
+                        <span>PROMOTION</span>
+                    </a>
+                </li>
+                <li class="layui-nav-item layui-this">
+                    <a href="/news.html">
+                        <span>新闻资讯</span>
+                        <span>NEWS</span>
+                    </a>
+                </li>
+                <li class="layui-nav-item">
+                    <a href="/contact.html">
+                        <span>联系我们</span>
+                        <span>CONTACT</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </header>
+
+    <div class="banner"></div>
+
+    <!-- 面包屑 -->
+    <div class="bread">
+        <div class="w">
+            <a href="./news.html">新闻资讯</a>
+            <span>&nbsp / &nbsp</span>
+            <a href="./news.html">{{ newsInfo.keyword }}</a>
+            <span>&nbsp / &nbsp</span>
+            <a href="javascript:void(0);">新闻详情</a>
+        </div>
+    </div>
+
+    <main>
+        <div class="w clearfix">
+            <article class="fl">
+                <h1>{{ newsInfo.title }}</h1>
+                <p class="info">
+                    <span>发布时间：{{ newsInfo.createtime | getTime() }}</span>
+                    <span>来源：{{ newsInfo.source }}</span>
+                    <span>点击：{{ newsInfo.pageview }}</span>
+                </p>
+                <hr>
+                <div class="cont-box" v-html="newsInfo.content">
+
+                </div>
+            </article>
+            <section class="main-right fr">
+                <div class="form">
+                    <h2>免费咨询大碗牛肉面项目</h2>
+                    <div class="sel">
+                        <span>
+                            <img src="./images/newsInfo/icon01.png" alt="">
+                            <i>开店费用</i>
+                        </span>
+                        <span>
+                            <img src="./images/newsInfo/icon02.png" alt="">
+                            <i>加盟资料</i>
+                        </span>
+                    </div>
+                    <div class="form-box">
+                        <el-form :model="userForm" status-icon :rules="rules" ref="userForm" label-width="0"
+                                 class="demo-ruleForm">
+
+                            <el-form-item prop="userName">
+                                <el-input v-model="userForm.userName" placeholder="请输入姓名"></el-input>
+                            </el-form-item>
+                            </el-form-item>
+                            <el-form-item prop="userPhone">
+                                <el-input v-model="userForm.userPhone" placeholder="请输入联系方式"></el-input>
+                            </el-form-item>
+
+                            <el-form-item label="" prop="userAddress">
+                                <el-input type="textarea" v-model="userForm.userAddress" placeholder="请输入留言"></el-input>
+                            </el-form-item>
+
+                            <el-form-item>
+                                <el-button type="primary" @click="submitForm('userForm')">提交您的留言</el-button>
+                            </el-form-item>
+
+                        </el-form>
+                    </div>
+                </div>
+                <div class="little-news">
+                    <a href="">
+                        <img :src="randomNews.articleThumbnailBean.thumbnailurl" alt="">
+                        <p>{{ randomNews.title }}</p>
+                    </a>
+                </div>
+            </section>
+        </div>
+    </main>
+
+
+    <footer>
+        <div class="w">
+            <h2 class="footer-logo">
+                <a href="/">
+                    <img src="./images/common/footer_logo.png" alt="">
+                </a>
+            </h2>
+
+            <div class="footer-nav">
+                <h2 class="footer-title">网址导航</h2>
+                <div class="line"></div>
+                <ul>
+                    <li>
+                        <a href="/">首页</a>
+                    </li>
+                    <li>
+                        <a href="introduce.html">
+                            关于我们
+                        </a>
+                    </li>
+                    <li>
+                        <a href="product1.html">
+                            产品展示
+                        </a>
+                    </li>
+                    <li>
+                        <a href="join.html">
+                            招商加盟
+                        </a>
+                    </li>
+                    <li>
+                        <a href="news.html">
+                            新闻资讯
+                        </a>
+                    </li>
+                    <li>
+                        <a href="contact.html">
+                            联系我们
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="footer-contact">
+                <h2 class="footer-title">联系方式</h2>
+                <div class="line"></div>
+                <div class="phone contact-box">
+                    <img src="images/common/phone.png" alt="">
+                    <p>
+                        <span>客服热线</span>
+                        <span>400-999-8017</span>
+                    </p>
+                </div>
+                <div class="address contact-box">
+                    <img src="./images/common/address.png" alt="">
+                    <p>
+                        <span>公司地址</span>
+                        <span>浙江省杭州市滨江区龙威大厦20楼</span>
+                    </p>
+                </div>
+                <div class="address contact-box">
+                    <img src="" alt="">
+                    <p>
+                        <span>投资有风险，加盟需谨慎！</span>
+                        <span>杭州味捷餐饮有限公司版权所有</span>
+                        <span><a rel="nofollow" target="_blank" href="http://beian.miit.gov.cn/" style="color: #c9c9c9;margin-top: 10px;">备案号：11048774号</a></span>
+                    </p>
+                </div>
+            </div>
+
+            <div class="footer-qrcode">
+                <h2 class="footer-title">联系方式</h2>
+                <div class="line"></div>
+                <img src="./images/common/footer_qrcode.png" alt="">
+            </div>
+
+        </div>
+    </footer>
+</div>
+
+<script>
+    var app = new Vue({
+        el: "#newsInfo",
+        data() {
+            // 自定义验证号码
+            var phoneCheck = (rule, value, callback) => {
+                if (!value) {
+                    return callback(new Error('手机号码不能为空'));
+                } else if (!(/^1[3456789]\d{9}$/.test(value))) {
+                    return callback(new Error('手机号码输入有误'));
+                } else {
+                    callback()
+                }
+            };
+
+            return {
+                id: parseInt(window.location.href.split("=")[1]),
+                type: parseInt(sessionStorage.getItem("type")) || 0,
+                // 当前新闻
+                newsInfo: {},
+                // 随机新闻
+                randomNews: {},
+                // 表单信息
+                userForm: {
+                    userName: '',
+                    userPhone: '',
+                    userAddress: ''
+                },
+                // 表单验证
+                rules: {
+                    userName: [
+                        {required: true, message: '请输入姓名', trigger: 'blur'},
+                        {min: 1, max: 5, message: '长度在 3 到 5 个字符', trigger: 'blur'}
+                    ],
+                    userPhone: [
+                        {validator: phoneCheck, trigger: 'blur', required: true}
+                    ],
+                },
+                // 当前url
+                nowUrl: window.location.href,
+                // 品牌 牛家人 17
+                description: 17,
+                // 设备标志 ( pc )
+                userEqt: 0,
+
+                userIp: returnCitySN["cip"]
+            }
+        },
+        methods: {
+            async getNews() {
+                // console.log(id);
+                // 当前新闻详情
+                const res1 = await axios.get(`https://manage.zhou-yuanwai.com/comprehens/findOne.do?uidpk=${this.id}`)
+                const res2 = await axios.get("https://manage.zhou-yuanwai.com/comprehens/random.do")
+                 console.log(res1)
+                 console.log("------->")
+                 console.log(res2)
+                if (res2.status === 200) {
+                    this.randomNews = res2.data[0]
+                    console.log(this.randomNews);
+                }
+                // https://manage.zhou-yuanwai.com/comprehens/findOne.do?uidpk=79
+                // console.log(res1)
+                if (res1.status === 200) {
+                    this.newsInfo = res1.data
+                    // console.log(this.newsInfo)
+                }
+            },
+            // 提交表单
+            submitForm(formName) {
+                this.$refs[formName].validate((valid) => {
+                    if (!valid) {
+                        this.$message({
+                            message: '请输入正确的信息后重试',
+                            type: 'error'
+                        });
+                        return false
+                    } else {
+                        // this.axios.post(this.api.nxdFromApi + "?tell=" + this.userForm.userPhone + "&category=" + this.description + "&ip=" + this.userIp + "&description=" + this.userForm.address + "&hasComputer=" + this.userEqt + "&name=" + this.userForm.username + "&url=" + this.nowUrl)
+
+                        var params = new URLSearchParams()
+                        params.append('district', this.userForm.userAddress)
+                        params.append('url', this.nowUrl)
+                        params.append('ip', this.userIp)
+                        params.append('category', this.description)
+                        params.append('hasComputer', this.userEqt)
+                        params.append('uname', this.userForm.userName)
+                        params.append('phone', this.userForm.userPhone)
+
+                        axios.post("http://manage.4007123123.com/leave/insert.do",params)
+                            .then(res => {
+                                console.log(res.data.message);
+                                if (res.data.message === 200) {
+                                    this.$message({
+                                        message: '提交成功，我们会尽快联系您',
+                                        type: 'success',
+                                    });
+                                    Object.keys(this.userForm).forEach(key => this.userForm[key] = "")
+                                } else {
+                                    const h = this.$createElement;
+                                    this.$notify.error({
+                                        title: '',
+                                        position: 'top-right',
+                                        duration: 2000,
+                                        message: h('i', {style: 'color: red'}, '错误，请重试')
+                                    });
+                                }
+                            })
+                    }
+                })
+            },
+        },
+        filters: {
+            // 超过字数变成省略号
+            slh: function (value, wordLimit) {
+                // var str = $(textName).html()
+                // console.log(str)
+                // var subStr = str.substring(0, wordLimit)
+                // // console.log(subStr)
+                // $(textName).html(subStr + (str.length > wordLimit ? "..." : ""))
+                let subStr = value.substring(0, wordLimit)
+                let newSubStr = subStr + (value.length > wordLimit ? "..." : "")
+                return newSubStr
+            },
+            // 格式化时间
+            getTime: function (dataStr, pattern = "YYYY-MM-DD hh:mm:ss") {
+                return moment(dataStr).format(pattern);
+            },
+        },
+        created() {
+            this.getNews()
+        },
+    })
+</script>
+
+<!-- jq -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<!-- layui.js -->
+<script src="./lib/layui/layui.js"></script>
+<!-- swiper -->
+<script src="https://cdn.bootcss.com/Swiper/4.5.0/js/swiper.min.js"></script>
+<script src="./js/pages/forbid.js"></script>
+<!--<script src="js/pages/newsinfo.js"></script>-->
+</body>
+</html>
+
+<script language=javascript>
+    var LiveReceptionCode_chatexplain_online='牛家人百度品专';
+    LiveReceptionCode_chatexplain_online=escape(LiveReceptionCode_chatexplain_online);
+</script>
+<script language="javascript" src="http://pyt.zoosnet.net/JS/LsJS.aspx?siteid=PYT62454332&float=1&lng=cn"></script>
+
+
+

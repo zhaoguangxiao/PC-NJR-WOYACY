@@ -1,0 +1,68 @@
+.banner {
+  width: 100%;
+}
+.banner img {
+  display: block;
+  width: 100%;
+}
+main {
+  padding-top: 37px;
+  padding-bottom: 27px;
+}
+main > div {
+  display: flex;
+  justify-content: space-between;
+}
+main li {
+  margin-bottom: 52px;
+}
+main li > img {
+  margin-right: 12px;
+  display: block;
+  width: 44px;
+  height: 44px;
+}
+main li div p:nth-of-type(1) {
+  font-size: 24px;
+  color: #2d2e2e;
+  margin-bottom: 10px;
+}
+main li div p:nth-of-type(2) {
+  font-size: 18px;
+  color: #666;
+}
+main .info {
+  width: 400px;
+  padding-top: 75px;
+}
+main .info .phone {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+main .info .address {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+main .info .qrcode {
+  display: flex;
+  justify-content: flex-start;
+}
+main .info .qrcode div {
+  padding-top: 8px;
+}
+main .info .qrcode div p {
+  text-align: center;
+}
+main #map {
+  width: 767px;
+  height: 578px;
+}
+main #map .BMap_cpyCtrl {
+  display: none;
+}
+main #map .anchorBL {
+  display: none;
+}
+/*# sourceMappingURL=contact.css.map */
