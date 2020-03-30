@@ -255,7 +255,7 @@
             },
             // 获取数据
             async getNews(type) {
-                const res = await axios.get(`https://manage.zhou-yuanwai.com/comprehens/journalism.do?uidpk=20`)
+                const res = await axios.get(`https://manage.zhou-yuanwai.com/comprehens/journalism.do?uidpk=${type}`)
                 console.log(res)
                 if (res.status === 200) {
                     // const arr = this.group(res.data)
