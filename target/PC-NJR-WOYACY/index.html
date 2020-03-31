@@ -92,17 +92,17 @@
             <!--</div>-->
             <div class="swiper-slide">
                 <a href="javascript:void(0);">
-                    <img src="./images/index/banner02.png" alt="">
+                    <img src="./images/index/banner02.jpg" alt="">
                 </a>
             </div>
             <div class="swiper-slide">
                 <a href="javascript:void(0);">
-                    <img src="./images/index/banner03.png" alt="">
+                    <img src="./images/index/banner03.jpg" alt="">
                 </a>
             </div>
             <div class="swiper-slide">
                 <a href="javascript:void(0);">
-                    <img src="./images/index/banner04.png" alt="">
+                    <img src="./images/index/banner04.jpg" alt="">
                 </a>
             </div>
         </div>
@@ -263,8 +263,8 @@
                     <li v-for="item in newsList.slice(1,5)">
                         <a :href="'./newsInfo.html?id='+item.uidpk">
                             <div class="item-left">
-                                <p class="day">{{ item.createTime | getTime | getDay }}</p>
-                                <p class="date">{{ item.createTime | getTime | getDate }}</p>
+                                <p class="day">{{ item.createtime  | getTime | getDay }}</p>
+                                <p class="date">{{ item.createTime | getTime | getDate}}</p>
                             </div>
                             <div class="item-right">
                                 <h2>{{ item.title }}</h2>
@@ -413,7 +413,7 @@
                 const res = await axios.get(`https://manage.zhou-yuanwai.com/comprehens/journalism.do?uidpk=${type}`)
                 // console.log(res)
                 this.newsList = res.data
-                console.log(this.newsList)
+                //console.log(this.newsList)
             },
         },
         filters: {
