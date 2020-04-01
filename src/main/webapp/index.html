@@ -264,7 +264,7 @@
                         <a :href="'./newsInfo.html?id='+item.uidpk">
                             <div class="item-left">
                                 <p class="day">{{ item.createtime  | getTime | getDay }}</p>
-                                <p class="date">{{ item.createTime | getTime | getDate}}</p>
+                                <p class="date">{{ item.createtime | getTime | getDate}}</p>
                             </div>
                             <div class="item-right">
                                 <h2>{{ item.title }}</h2>
@@ -357,7 +357,7 @@
     </footer>
 </div>
 
-
+<script src="js/index/dataFormat.js"></script>
 <script>
     var app = new Vue({
         el: '#index',
@@ -429,8 +429,8 @@
                 return newSubStr
             },
             // 格式化时间
-            getTime: function (dataStr, pattern = "YYYY-MM-DD") {
-                return moment(dataStr).format(pattern);
+            getTime: function (dataStr) {
+                return timestampToTime(dataStr);
             },
             // 获取日期
             getDay(val) {
