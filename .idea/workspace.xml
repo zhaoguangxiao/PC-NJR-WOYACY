@@ -7,18 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee427700-e2c3-4c9c-b807-01332c35625f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/njr.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/floating_back.7d863d13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/left_img.5b073d49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/n_01.b7904a51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/n_02.96acf439.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/n_03.d0aff8b5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/n_04.df0f31ef.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/n_05.034e4e97.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/njr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/bannerImages.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/njr.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/njr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,7 +39,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/njr.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="30" column="46" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="46" />
+              <folding>
+                <element signature="n#style#0;n#p#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -100,6 +107,8 @@
         <option value="$PROJECT_DIR$/src/main/webapp/js/pages/newsinfo.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/newsInfo.html" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/njr.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/index.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
       </list>
     </option>
@@ -139,8 +148,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="550" />
-    <option name="y" value="51" />
+    <option name="x" value="347" />
+    <option name="y" value="95" />
     <option name="width" value="1400" />
     <option name="height" value="825" />
   </component>
@@ -150,8 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,21 +184,47 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PC-NJR-WOYACY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PC-NJR-WOYACY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="njr" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/images/njr" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images\njr" />
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images" />
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\css" />
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp" />
       <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\js\index" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images\njr" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -291,7 +324,11 @@
       <option name="presentableId" value="Default" />
       <updated>1585708126018</updated>
       <workItem from="1585708127517" duration="801000" />
-      <workItem from="1585730524711" duration="261000" />
+      <workItem from="1585730524711" duration="315000" />
+      <workItem from="1585731886988" duration="197000" />
+      <workItem from="1585732146791" duration="23000" />
+      <workItem from="1585732886165" duration="203000" />
+      <workItem from="1585815611469" duration="1126000" />
     </task>
     <task id="LOCAL-00001" summary="主页bug修复">
       <created>1585730569676</created>
@@ -300,16 +337,24 @@
       <option name="project" value="LOCAL" />
       <updated>1585730569676</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加牛家人单页面">
+      <created>1585730803761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585730803761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1470000" />
+    <option name="totallyTimeSpent" value="3073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28487125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24248926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -319,8 +364,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30965593" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30410653" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21087681" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3618202" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -331,8 +376,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.27081022" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.44617093" />
-      <window_info anchor="right" id="Word Book" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.281909" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Palette" order="2" />
@@ -341,7 +385,8 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="8" visible="true" weight="0.17381974" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.17381974" />
+      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29248476" />
@@ -415,7 +460,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="主页bug修复" />
-    <option name="LAST_COMMIT_MESSAGE" value="主页bug修复" />
+    <MESSAGE value="添加牛家人单页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加牛家人单页面" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -454,13 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="435" column="25" selection-start-line="435" selection-start-column="25" selection-end-line="435" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/index/dataFormat.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -468,18 +511,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/.gitignore" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/css/njr.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/njr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/images/njr/floating_back.7d863d13.png">
       <provider selected="true" editor-type-id="images" />
@@ -487,8 +521,66 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/images/njr/left_img.5b073d49.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/images/njr/n_01.b7904a51.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/index/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/introduce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/introduce.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/introduce/company_title.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4104">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/njr/bannerImages.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/njr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
