@@ -114,7 +114,7 @@
                             <div class="news-word">
                                 <h3>{{ item.title }}</h3>
                                 <p>{{ item.description | slh(65) }}</p>
-                                <p>{{ item.createTime | getTime() }}</p>
+                                <p>{{ item.createtime | getTime() }}</p>
                             </div>
                         </a>
                     </li>
@@ -333,7 +333,7 @@
             },
         },
         created() {
-            this.getNews(1)
+            this.getNews(20)
             this.getRandomNews()
         },
         mounted() {
@@ -354,7 +354,8 @@
 <script src="js/index/index.js"></script>
 <script src="js/pages/forbid.js"></script>
 <!--<script src="js/pages/news.js"></script>-->
-
+<!--引入商务通代码-->
+<script src="/js/businesscommunication.js"></script>
 <!--<script>-->
 <!--layui.use('laypage', function(){-->
 <!--var laypage = layui.laypage;-->

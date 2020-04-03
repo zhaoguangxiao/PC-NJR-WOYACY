@@ -363,7 +363,7 @@
                 return newSubStr
             },
             // 格式化时间
-            getTime: function (dataStr, pattern = "YYYY-MM-DD hh:mm:ss") {
+            getTime: function (dataStr, pattern = "YYYY-MM-DD hh:mm") {
                 return moment(dataStr).format(pattern);
             },
         },
@@ -383,7 +383,8 @@
 <!--<script src="js/pages/newsinfo.js"></script>-->
 </body>
 </html>
-
+<!--引入商务通代码-->
+<script src="/js/businesscommunication.js"></script>
 <script language=javascript>
     var LiveReceptionCode_chatexplain_online='';
     LiveReceptionCode_chatexplain_online=escape(LiveReceptionCode_chatexplain_online);

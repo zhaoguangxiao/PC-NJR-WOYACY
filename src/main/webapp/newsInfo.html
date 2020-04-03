@@ -363,7 +363,7 @@
                 return newSubStr
             },
             // 格式化时间
-            getTime: function (dataStr, pattern = "YYYY-MM-DD hh:mm:ss") {
+            getTime: function (dataStr, pattern = "YYYY-MM-DD hh:mm") {
                 return moment(dataStr).format(pattern);
             },
         },
@@ -384,7 +384,15 @@
 </body>
 </html>
 <!--引入商务通代码-->
-<script src="/js/businesscommunication.js"></script>
+<script>
+    var  _hmt  =  _hmt  ||  [];
+    (function()  {
+        var  hm  =  document.createElement("script");
+        hm.src  =  "https://hm.baidu.com/hm.js?71fd9b050ac55b52d33231e1765d60dc";
+        var  s  =  document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm,  s);
+    })();
+</script>
 <script language=javascript>
     var LiveReceptionCode_chatexplain_online='';
     LiveReceptionCode_chatexplain_online=escape(LiveReceptionCode_chatexplain_online);
