@@ -17,10 +17,22 @@
     <script src="https://cdn.jsdelivr.net/npm/vue"></script>
     <script src="https://cdn.bootcss.com/element-ui/2.12.0/index.js"></script>
     <script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
-    <style>
-
-
-    </style>
+    <script type="text/javascript">
+        window._agl = window._agl || [];
+        (function () {
+            _agl.push(
+                ['production', '_f7L2XwGXjyszb4d1e2oxPybgD']
+            );
+            (function () {
+                var agl = document.createElement('script');
+                agl.type = 'text/javascript';
+                agl.async = true;
+                agl.src = 'https://fxgate.baidu.com/angelia/fcagl.js?production=_f7L2XwGXjyszb4d1e2oxPybgD';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(agl, s);
+            })();
+        })();
+    </script>
 </head>
 <body>
 <div id="newsInfo">
@@ -60,7 +72,7 @@
                             </el-form-item>
 
                             <el-form-item>
-                                <el-button type="primary" @click="submitForm('userForm')">立即留言</el-button>
+                                <el-button type="primary" @click="submitForm('userForm')" data-agl-cvt="5">立即留言</el-button>
                             </el-form-item>
 
             </el-form>
