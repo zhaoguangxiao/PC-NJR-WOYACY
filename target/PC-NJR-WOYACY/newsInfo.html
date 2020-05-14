@@ -100,9 +100,9 @@
     <main>
         <div class="w clearfix">
             <article class="fl">
-                <h1>{{ newsInfo.title }}</h1>
+                <h1  v-cloak>{{ newsInfo.title }}</h1>
                 <p class="info">
-                    <span>发布时间：{{ newsInfo.createtime | getTime() }}</span>
+                    <span  v-cloak>发布时间：{{ newsInfo.createtime | getTime() }}</span>
                     <span>来源：{{ newsInfo.source }}</span>
                     <span>点击：{{ newsInfo.pageview }}</span>
                 </p>
@@ -303,7 +303,7 @@
                 // console.log(res1)
                 if (res1.status === 200) {
                     this.newsInfo = res1.data
-                    // console.log(this.newsInfo)
+                     console.log(this.newsInfo)
                 }
             },
             // 提交表单

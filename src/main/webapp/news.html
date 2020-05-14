@@ -48,9 +48,9 @@
                         <span>ABOUT US</span>
                     </a>
                     <dl class="layui-nav-child"> <!-- 二级菜单 -->
-                        <dd><a href="./introduce.html">公司介绍</a></dd>
-                        <dd><a href="./introduce.html">品牌实力</a></dd>
-                        <dd><a href="./introduce.html">企业荣誉</a></dd>
+                        <dd><a href="/introduce.html#company">公司介绍</a></dd>
+                        <dd><a href="/introduce.html#brand">品牌实力</a></dd>
+                        <dd><a href="/introduce.html#honor">企业荣誉</a></dd>
                     </dl>
                 </li>
                 <li class="layui-nav-item">
@@ -72,7 +72,6 @@
                     </a>
                     <dl class="layui-nav-child"> <!-- 二级菜单 -->
                         <dd><a href="./introduce.html">牛家人动态</a></dd>
-                        <dd><a href="./introduce.html">行业资讯</a></dd>
                     </dl>
                 </li>
                 <li class="layui-nav-item">
@@ -96,7 +95,6 @@
             <span>当前位置：</span>
             <ul ref="newsNav">
                 <li data-type="0" @click="addCurrent($event);getNews(20)" class="current">牛家人资讯</li>
-                <li data-type="1" @click="addCurrent($event);getNews(20)">行业动态</li>
             </ul>
         </div>
     </div>
@@ -228,6 +226,7 @@
     </footer>
 </div>
 
+<script src="js/index/dataFormat.js"></script>
 <script>
     var app = new Vue({
         el: "#news",
@@ -256,7 +255,6 @@
             // 获取数据
             async getNews(type) {
                 const res = await axios.get(`https://manage.zhou-yuanwai.com/comprehens/journalism.do?uidpk=${type}`)
-                console.log(res)
                 if (res.status === 200) {
                     // const arr = this.group(res.data)
                     // // console.log(arr)
@@ -269,7 +267,6 @@
             // 获取随机新闻
             async getRandomNews() {
                 const res = await axios.get("https://manage.zhou-yuanwai.com/comprehens/random.do")
-                console.log(res.data)
                 if (res.status === 200) {
                     this.randomNewsList = res.data
                 }
@@ -328,8 +325,8 @@
                 return newSubStr
             },
             // 格式化时间
-            getTime: function (dataStr, pattern = "YYYY-MM-DD") {
-                return moment(dataStr).format(pattern);
+            getTime: function (dataStr) {
+                return timestampToTime(dataStr);
             },
         },
         created() {

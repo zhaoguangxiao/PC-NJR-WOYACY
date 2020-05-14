@@ -45,9 +45,9 @@
                         <span>ABOUT US</span>
                     </a>
                     <dl class="layui-nav-child"> <!-- 二级菜单 -->
-                        <dd><a href="./introduce.html">公司介绍</a></dd>
-                        <dd><a href="./introduce.html">品牌实力</a></dd>
-                        <dd><a href="./introduce.html">企业荣誉</a></dd>
+                        <dd><a href="/introduce.html#company">公司介绍</a></dd>
+                        <dd><a href="/introduce.html#brand">品牌实力</a></dd>
+                        <dd><a href="/introduce.html#honor">企业荣誉</a></dd>
                     </dl>
                 </li>
                 <li class="layui-nav-item">
@@ -69,7 +69,6 @@
                     </a>
                     <dl class="layui-nav-child"> <!-- 二级菜单 -->
                         <dd><a href="./introduce.html">牛家人动态</a></dd>
-                        <dd><a href="./introduce.html">行业资讯</a></dd>
                     </dl>
                 </li>
                 <li class="layui-nav-item">
@@ -258,7 +257,6 @@
             </div>
             <div class="news-box-right">
                 <a href="javascript:void(0);" class="tab-button" @click="getNews(20)">牛家人动态</a>
-                <a href="javascript:void(0);" class="tab-button" @click="getNews(20)">行业资讯</a>
                 <ul>
                     <li v-for="item in newsList.slice(1,5)">
                         <a :href="'./newsInfo.html?id='+item.uidpk">
