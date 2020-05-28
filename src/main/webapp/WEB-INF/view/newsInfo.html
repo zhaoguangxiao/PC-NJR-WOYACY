@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="keywords" th:content="${newsDetails.keyword}">
     <meta name="description" th:content="${newsDetails.description}">
-    <title th:text="${newsDetails.title}"></title>
+    <h1>
+        <title th:text="${newsDetails.title}"></title>
+    </h1>
     <link rel=icon type=image/x-icon href=/public/favicon.ico>
     <!-- 重置页面 -->
     <link rel="stylesheet" href="/css/base.css">
@@ -32,11 +34,11 @@
     <!-- 导航 -->
     <header>
         <div class="w">
-            <h1 class="">
+            <h2>
                 <a href="/">
                     <img src="/images/common/logo.png" alt="">
                 </a>
-            </h1>
+            </h2>
 
             <ul class="layui-nav tab-nav" lay-filter="">
                 <li class="layui-nav-item">
@@ -100,7 +102,7 @@
     <main>
         <div class="w clearfix">
             <article class="fl">
-                <h1 v-cloak th:text="${newsDetails.title}"></h1>
+                <h2 v-cloak th:text="${newsDetails.title}"></h2>
                 <p class="info">
                     <span v-cloak>发布时间：[[${#dates.format(newsDetails.createtime, 'yyyy-MM-dd HH:mm')}]]</span>
                     <span>来源：[[${ newsDetails.source }]]</span>
