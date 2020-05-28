@@ -1,9 +1,9 @@
 package com.woyacy.njr.controller;
 
 import com.alibaba.fastjson.JSON;
-import com.sun.istack.internal.NotNull;
 import com.woyacy.njr.bean.ComprehensBean;
 import com.woyacy.njr.util.HttpUtil;
+import com.woyacy.njr.util.JsonConvertObject;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import java.io.IOException;
-import java.util.List;
 
 /**
  * @author Administrator
@@ -29,7 +28,7 @@ public class NewsListController {
         String url1="https://manage.zhou-yuanwai.com/comprehens/journalism.do";
         //查出全部文章
         String result = HttpUtil.sendGet(url1, "?uidpk=20");
-        model.addAttribute("news",toBaseBean(result));
+        model.addAttribute("news", JsonConvertObject.toBaseBean(result));
         return "news";
     }
 
@@ -37,7 +36,7 @@ public class NewsListController {
 
 
     @RequestMapping(value = "{id}",method = RequestMethod.GET)
-    public String newsDetails(@PathVariable("id") @NotNull Long id,
+    public String newsDetails(@PathVariable("id") Long id,
                               Model model){
         String url="https://manage.zhou-yuanwai.com/comprehens/findOne.do";
         if (null != id){
@@ -49,13 +48,6 @@ public class NewsListController {
 
 
 
-    /**
-     *  把json 数组转化为 实体集合对象
-     * @param str json数组
-     * @return 返回 List<ComprehensBean>实体
-     */
-    private List<ComprehensBean> toBaseBean(String str){
-        return JSON.parseArray(str, ComprehensBean.class);
-    }
+
 
 }
