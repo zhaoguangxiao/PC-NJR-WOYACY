@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /new/list.html?
 
 Sitemap: http://njrpc.woyacy.com/sitemap.xml
