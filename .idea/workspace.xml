@@ -7,8 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee427700-e2c3-4c9c-b807-01332c35625f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/sitemap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/sitemap.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/sitemap.xsl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newsInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newsInfo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/introduce.html" afterDir="false" />
@@ -16,7 +22,12 @@
       <change beforePath="$PROJECT_DIR$/src/main/webapp/product1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/product2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/product3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/css/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/css/news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/introduce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/join.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/product1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/product1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/product2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/product2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/product3.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/product3.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,50 +55,16 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/news.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="121" selection-start-line="121" selection-end-line="135" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newsInfo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.html">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/news.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5157">
-              <caret line="191" selection-start-line="191" selection-end-line="236" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/woyacy/njr/controller/NewsListController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="45" column="84" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="84" />
+            <state relative-caret-position="299">
+              <caret line="175" column="14" selection-start-line="175" selection-start-column="14" selection-end-line="175" selection-end-column="14" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -104,7 +81,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>https://manage.zhou-yuanwai.com/comprehens/journalism.do?uidpk=</find>
       <find>getTime</find>
       <find>uidpk</find>
       <find>getDate</find>
@@ -131,9 +107,9 @@
       <find>/journalism.html</find>
       <find>main</find>
       <find>h2</find>
+      <find>&lt;dd&gt;&lt;a href=&quot;/new/list.html&quot;&gt;牛家人动态&lt;/a&gt;&lt;/dd&gt;</find>
+      <find>牛家人动态</find>
       <find>h1</find>
-      <find>&lt;dd&gt;&lt;a href=&quot;/new/list.html&quot;&gt;牛家人动态&lt;/a&gt;&lt;/dd&gt;</find>
-      <find>&lt;dd&gt;&lt;a href=&quot;/new/list.html&quot;&gt;牛家人动态&lt;/a&gt;&lt;/dd&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>/new/list.html</replace>
@@ -163,8 +139,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/news.html" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-context.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/properties/db.properties" />
-        <option value="$PROJECT_DIR$/src/main/webapp/contact.html" />
-        <option value="$PROJECT_DIR$/src/main/webapp/introduce.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/join.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/product1.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/product2.html" />
@@ -178,9 +152,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/woyacy/njr/util/PageUtil.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/css/news.css" />
         <option value="$PROJECT_DIR$/src/main/java/com/woyacy/njr/controller/NewsListController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/news.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newsInfo.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/news.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/sitemap.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/sitemap.xsl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/sitemap.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/introduce.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/contact.html" />
       </list>
     </option>
   </component>
@@ -219,8 +198,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="247" />
-    <option name="y" value="241" />
+    <option name="x" value="424" />
+    <option name="y" value="70" />
     <option name="width" value="1400" />
     <option name="height" value="825" />
   </component>
@@ -268,24 +247,6 @@
               <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="njr" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PC-NJR-WOYACY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="njr" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PC-NJR-WOYACY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -325,29 +286,29 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.24979044" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\WEB-INF\view" />
-      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images\index" />
-      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\resources\mybatis" />
-      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\resources" />
-      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images\njr" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.woyacy.njr.util" />
-      <recent name="com.woyacy.njr.bean" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images" />
       <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp" />
       <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\resources\properties" />
       <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\WEB-INF\view" />
       <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images\njr" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.woyacy.njr.util" />
+      <recent name="com.woyacy.njr.bean" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp" />
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\WEB-INF\view" />
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images\index" />
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\resources\mybatis" />
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -537,7 +498,8 @@
       <workItem from="1590652882840" duration="2486000" />
       <workItem from="1590655406880" duration="79000" />
       <workItem from="1590655514970" duration="841000" />
-      <workItem from="1590658081936" duration="391000" />
+      <workItem from="1590658081936" duration="2388000" />
+      <workItem from="1590720006249" duration="3925000" />
     </task>
     <task id="LOCAL-00001" summary="主页bug修复">
       <created>1585730569676</created>
@@ -616,17 +578,23 @@
       <option name="project" value="LOCAL" />
       <updated>1590655350822</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="新闻 优化代码">
+      <created>1590658575020</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590658575020</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47617000" />
+    <option name="totallyTimeSpent" value="53539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944505" visible="true" weight="0.21298283" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49944505" visible="true" weight="0.17328326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -637,7 +605,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.38512763" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49892703" weight="0.4062153" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49892703" weight="0.3207547" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -648,7 +616,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.27081022" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.2918979" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.42952275" />
       <window_info anchor="bottom" id="Spring" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
@@ -658,7 +626,7 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Ant Build" order="7" sideWeight="0.49492386" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="8" sideWeight="0.49746192" weight="0.17972103" />
+      <window_info anchor="right" id="Maven" order="8" sideWeight="0.49746192" weight="0.21512875" />
       <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
       <window_info anchor="right" id="Coverage" order="10" sideWeight="0.50507617" side_tool="true" weight="0.25" />
     </layout>
@@ -744,7 +712,8 @@
     <MESSAGE value="seo 优化" />
     <MESSAGE value="主页seo优化" />
     <MESSAGE value="新闻分页 优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="新闻分页 优化" />
+    <MESSAGE value="新闻 优化代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="新闻 优化代码" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -778,27 +747,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/lib/pagination/pagination.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#175410#175549#2" expanded="true" />
-            <element signature="e#177836#177975#2" expanded="true" />
-            <element signature="e#181364#181503#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/njr.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/njr.html" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/product/1/back.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/common/address.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/images/common/footer_logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -860,20 +808,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/images/index/banner02.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/introduce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="69" lean-forward="true" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/join.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="26" column="65" lean-forward="true" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/images/index/banner01.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -882,13 +816,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/images/index/banner04.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-999">
-          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/images/product/banner01.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -922,6 +849,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3429">
           <caret line="127" selection-start-line="127" selection-end-line="131" selection-end-column="21" />
@@ -930,7 +858,6 @@
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1014,13 +941,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/css/base.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="121" selection-start-line="121" selection-end-line="135" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/css/news.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5157">
@@ -1045,10 +965,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sitemap.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1983">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sitemap.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sitemap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2889">
+          <caret line="107" column="6" selection-start-line="107" selection-start-column="6" selection-end-line="107" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/join.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4826">
+          <caret line="26" column="65" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/introduce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="174" selection-start-line="174" selection-end-line="192" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+        <state relative-caret-position="-404">
+          <caret line="332" selection-start-line="332" selection-end-line="332" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="175" column="14" selection-start-line="175" selection-start-column="14" selection-end-line="175" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1058,11 +1042,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>PC-NJR-WOYACY:war</last-edited>
+          <last-edited>PC-NJR-WOYACY:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.24979044" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1070,11 +1055,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
+          <last-edited>Spring (PC-NJR-WOYACY)|Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.24979044" />
               </list>
             </option>
           </splitter-proportions>
@@ -1085,7 +1070,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.24979044" />
               </list>
             </option>
           </splitter-proportions>
@@ -1097,7 +1082,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.24979044" />
               </list>
             </option>
           </splitter-proportions>
@@ -1105,11 +1090,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|PC-NJR-WOYACY</last-edited>
+          <last-edited>Spring|PC-NJR-WOYACY</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.24979044" />
               </list>
             </option>
           </splitter-proportions>
@@ -1121,7 +1106,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.24979044" />
               </list>
             </option>
           </splitter-proportions>
