@@ -1,4 +1,5 @@
+# robots.txt generated at http://tool.chinaz.com/robots/ 
 User-agent: *
-Disallow: /new/list.html?
-
+Disallow: 
 Sitemap: http://njrpc.woyacy.com/sitemap.xml
+Sitemap: http://njrpc.woyacy.com/sitemap.html
