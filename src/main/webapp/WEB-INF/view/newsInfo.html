@@ -27,7 +27,7 @@
     <!-- vue -->
     <script src="/js/vue.js"></script>
     <script src="/js/index.js"></script>
-    <script src="/js/cityjson.js"></script>
+   <script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
 </head>
 <body>
 
@@ -351,24 +351,7 @@
                     }
                 })
             },
-        },
-        filters: {
-            // 超过字数变成省略号
-            slh: function (value, wordLimit) {
-                // var str = $(textName).html()
-                // console.log(str)
-                // var subStr = str.substring(0, wordLimit)
-                // // console.log(subStr)
-                // $(textName).html(subStr + (str.length > wordLimit ? "..." : ""))
-                let subStr = value.substring(0, wordLimit)
-                let newSubStr = subStr + (value.length > wordLimit ? "..." : "")
-                return newSubStr
-            },
-            // 格式化时间
-            getTime: function (dataStr) {
-                return timestampToTime(dataStr);
-            },
-        },
+        }
     })
 </script>
 
