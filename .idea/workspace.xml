@@ -7,23 +7,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee427700-e2c3-4c9c-b807-01332c35625f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/pc/njr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/index/banner_lc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/pc_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/pc_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/pc_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/pc_05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/pc_06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/pc_07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/pc_08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/pc_09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/pc_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/njr/pc_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/njr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/woyacy/njr/controller/NewsListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/woyacy/njr/controller/NewsListController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newsInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newsInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/introduce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/join.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/product1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/product2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/product3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/introduce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/join.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/product1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/product1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/product2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/product2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/product3.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/product3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/newsInfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/newsInfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/njr/bannerImages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/njr/floating_back.7d863d13.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/images/floating_back.7d863d13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/njr/left_img.5b073d49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/njr/n_01.b7904a51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/njr/n_02.96acf439.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/njr/n_03.d0aff8b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/njr/n_04.df0f31ef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/njr/n_05.034e4e97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/lib/layui/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/lib/layui/css/layui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/sitemap.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/sitemap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/sitemap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/sitemap.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/css/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/css/news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/css/newsInfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/css/newsInfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PC-NJR-WOYACY/lib/layui/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/PC-NJR-WOYACY/lib/layui/css/layui.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,11 +70,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+            <state relative-caret-position="200">
+              <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
               <folding>
                 <element signature="n#h2#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -65,21 +83,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="157" selection-start-line="157" selection-end-line="192" selection-end-column="12" />
-              <folding>
-                <element signature="n#properties#0;n#project#0;n#!!top" />
-                <element signature="n#dependencies#0;n#project#0;n#!!top" />
-                <element signature="n#build#0;n#project#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
     </leaf>
@@ -93,18 +96,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.news .news-box .news-box-left .news-word</find>
-      <find>/journalism.html</find>
-      <find>main</find>
-      <find>h2</find>
-      <find>&lt;dd&gt;&lt;a href=&quot;/new/list.html&quot;&gt;牛家人动态&lt;/a&gt;&lt;/dd&gt;</find>
-      <find>牛家人动态</find>
-      <find>Disallow</find>
-      <find>.w</find>
-      <find>base</find>
-      <find>&lt;link href=&quot;https://cdn.bootcss.com/Swiper/4.5.0/css/swiper.min.css&quot; rel=&quot;stylesheet&quot;&gt;</find>
-      <find>&lt;script src=&quot;https://cdn.bootcss.com/axios/0.19.0/axios.min.js&quot;&gt;&lt;/script&gt;</find>
-      <find>&lt;script src=&quot;https://cdn.jsdelivr.net/npm/vue&quot;&gt;&lt;/script&gt;</find>
       <find>userIp</find>
       <find>&lt;script src=&quot;https://code.jquery.com/jquery-3.4.1.min.js&quot;&gt;&lt;/script&gt;</find>
       <find>&lt;script src=&quot;https://cdn.bootcss.com/Swiper/4.5.0/js/swiper.min.js&quot;&gt;&lt;/script&gt;</find>
@@ -119,10 +110,22 @@
       <find>addCurrent</find>
       <find>&lt;img src=&quot;/images/common/footer_logo.png&quot; alt=&quot;&quot;&gt;</find>
       <find>&lt;img src=&quot;/images/common/phone.png&quot; alt=&quot;&quot;&gt;</find>
-      <find>&lt;img src=&quot;/images/common/phone.png&quot; alt=&quot;&quot;&gt;</find>
       <find>&lt;img src=&quot;/images/common/phone.png&quot; alt=&quot;牛家人公司地址&quot;&gt;</find>
       <find>&lt;img src=&quot;/images/common/address.png&quot; alt=&quot;&quot;&gt;</find>
       <find>&lt;img src=&quot;/images/common/footer_qrcode.png&quot; alt=&quot;&quot;&gt;</find>
+      <find>joinList</find>
+      <find>index</find>
+      <find>id=&quot;index&quot;</find>
+      <find>vue</find>
+      <find>index-banner</find>
+      <find>mySwiper2</find>
+      <find>tearData</find>
+      <find>tab-nav</find>
+      <find>ta-banner</find>
+      <find>swiper-no-swiping</find>
+      <find>swiper.min.js</find>
+      <find>section</find>
+      <find>fl</find>
     </findStrings>
     <replaceStrings>
       <replace>/new/list.html</replace>
@@ -151,7 +154,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/js/pages/news.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/pages/newsinfo.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/businesscommunication.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/njr.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/newsInfo.html" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/mybatis/config.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/properties/mysql.properties" />
@@ -172,8 +174,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/woyacy/njr/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/css/index.css" />
         <option value="$PROJECT_DIR$/src/main/java/com/woyacy/njr/util/PageUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/css/news.css" />
-        <option value="$PROJECT_DIR$/src/main/java/com/woyacy/njr/controller/NewsListController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/sitemap.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/sitemap.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/sitemap.xml" />
@@ -181,12 +181,10 @@
         <option value="$PROJECT_DIR$/src/main/webapp/robots.txt" />
         <option value="$PROJECT_DIR$/src/main/webapp/css/swiper.min.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/axios.min.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/js/vue.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/cityjson.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/jquery-3.4.1.min.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/swiper.min.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/index.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newsInfo.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/news.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/contact.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/introduce.html" />
@@ -194,6 +192,15 @@
         <option value="$PROJECT_DIR$/src/main/webapp/product1.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/product3.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/product2.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/index/tear.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/vue.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/lib/layui/css/layui.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/pc/njr.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/njr.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/news.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/newsInfo.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newsInfo.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/woyacy/njr/controller/NewsListController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.html" />
       </list>
     </option>
@@ -233,10 +240,10 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="654" />
-    <option name="y" value="20" />
-    <option name="width" value="1101" />
-    <option name="height" value="970" />
+    <option name="x" value="465" />
+    <option name="y" value="307" />
+    <option name="width" value="1013" />
+    <option name="height" value="705" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -245,6 +252,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,6 +283,14 @@
               <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="njr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PC-NJR-WOYACY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -283,6 +299,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PC-NJR-WOYACY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PC-NJR-WOYACY" type="b2602c69:ProjectViewProjectNode" />
@@ -301,37 +325,10 @@
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PC-NJR-WOYACY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PC-NJR-WOYACY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PC-NJR-WOYACY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PC-NJR-WOYACY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="PC-NJR-WOYACY" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,23 +342,23 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images\njr" />
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images" />
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\css\pc" />
       <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp" />
-      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\WEB-INF\view" />
-      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images\index" />
-      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\resources\mybatis" />
-      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\resources" />
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\resources\properties" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.woyacy.njr.util" />
       <recent name="com.woyacy.njr.bean" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images\index" />
       <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp" />
-      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images" />
-      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\resources\properties" />
       <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\WEB-INF\view" />
-      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\webapp\images\njr" />
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\resources\mybatis" />
+      <recent name="E:\weijie-workspaces\PC-NJR-WOYACY\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -383,6 +380,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.woyacy.njr.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewsListController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.woyacy.njr.controller.NewsListController" />
+      <module name="PC-NJR-WOYACY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.woyacy.njr.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,6 +427,7 @@
       </method>
     </configuration>
     <configuration name="Tomcat 8.5.402" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.402" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8084/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="PC-NJR-WOYACY:war exploded">
@@ -427,8 +438,8 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_PC-NJR-WOYACY_2" />
-        <option name="HTTP_PORT" value="8082" />
-        <option name="JNDI_PORT" value="1092" />
+        <option name="HTTP_PORT" value="8084" />
+        <option name="JNDI_PORT" value="1094" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -494,10 +505,12 @@
       <item itemvalue="Application.demo" />
       <item itemvalue="Application.HttpUtil" />
       <item itemvalue="Application.test" />
+      <item itemvalue="Application.NewsListController" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.402" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NewsListController" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.HttpUtil" />
         <item itemvalue="Application.test" />
@@ -581,6 +594,30 @@
       <workItem from="1592184798046" duration="3702000" />
       <workItem from="1592291539861" duration="472000" />
       <workItem from="1592292513866" duration="18000" />
+      <workItem from="1592622991859" duration="545000" />
+      <workItem from="1594804538640" duration="16000" />
+      <workItem from="1595295779805" duration="847000" />
+      <workItem from="1595296949728" duration="20000" />
+      <workItem from="1595297206244" duration="544000" />
+      <workItem from="1595298549522" duration="5000" />
+      <workItem from="1595299403502" duration="147000" />
+      <workItem from="1595299758500" duration="12000" />
+      <workItem from="1595299829045" duration="279000" />
+      <workItem from="1595300223628" duration="15000" />
+      <workItem from="1595300337677" duration="2864000" />
+      <workItem from="1595310277932" duration="20000" />
+      <workItem from="1595310385674" duration="331000" />
+      <workItem from="1595311783892" duration="5255000" />
+      <workItem from="1596161242663" duration="1226000" />
+      <workItem from="1598582184276" duration="1246000" />
+      <workItem from="1598596824267" duration="34000" />
+      <workItem from="1598682915439" duration="180000" />
+      <workItem from="1598683758552" duration="7761000" />
+      <workItem from="1598839679310" duration="16357000" />
+      <workItem from="1599200522746" duration="36000" />
+      <workItem from="1599200655997" duration="280000" />
+      <workItem from="1599200974381" duration="94000" />
+      <workItem from="1599201282536" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="主页bug修复">
       <created>1585730569676</created>
@@ -694,17 +731,24 @@
       <option name="project" value="LOCAL" />
       <updated>1592040083223</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="网站新闻代码">
+      <created>1592623073641</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1592623073641</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72428000" />
+    <option name="totallyTimeSpent" value="111286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944505" visible="true" weight="0.18133047" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.2663707" visible="true" weight="0.20332618" />
+      <window_info id="Structure" order="1" sideWeight="0.7336293" side_tool="true" weight="0.26984978" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -713,8 +757,8 @@
       <window_info id="Web" order="7" sideWeight="0.5005549" side_tool="true" weight="0.22371244" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26526082" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49892703" weight="0.3862375" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19200888" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49892703" weight="0.3873474" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -725,7 +769,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.27081022" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.17758046" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.5682575" />
       <window_info anchor="bottom" id="Spring" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
@@ -735,13 +779,13 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Ant Build" order="7" sideWeight="0.49492386" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="8" sideWeight="0.49746192" visible="true" weight="0.29935622" />
+      <window_info anchor="right" id="Maven" order="8" sideWeight="0.49746192" weight="0.29935622" />
       <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
       <window_info anchor="right" id="Coverage" order="10" sideWeight="0.50507617" side_tool="true" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944505" visible="true" weight="0.34402332" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49710146" visible="true" weight="0.19903433" />
+      <window_info id="Structure" order="1" sideWeight="0.5028986" side_tool="true" visible="true" weight="0.19903433" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -750,8 +794,8 @@
       <window_info id="Web" order="7" sideWeight="0.5005549" side_tool="true" weight="0.22371244" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.56936735" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49892703" weight="0.3862375" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23418424" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49892703" weight="0.38845727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -762,7 +806,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.27081022" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.17758046" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.26859045" />
       <window_info anchor="bottom" id="Spring" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
@@ -849,6 +893,21 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>results</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>indexs</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>each.indexOf(&quot;你&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>result</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -871,105 +930,66 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/common/footer_qrcode.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/woyacy/njr/controller/NewsListController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/woyacy/njr/controller/IndexController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="45" column="84" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="405">
+          <caret line="19" selection-start-line="18" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/sitemap.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="923" column="29" selection-start-line="923" selection-start-column="27" selection-end-line="923" selection-end-column="29" />
+        <state relative-caret-position="1512">
+          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/base.css">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="165" column="18" lean-forward="true" selection-start-line="165" selection-start-column="18" selection-end-line="165" selection-end-column="18" />
+        <state relative-caret-position="540">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/njr.css">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/springmvc-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="3" />
+        <state relative-caret-position="1458">
+          <caret line="54" selection-start-line="54" selection-end-line="72" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/mchange/mchange-commons-java/0.2.3.3/mchange-commons-java-0.2.3.3.jar!/com/mchange/v2/codegen/bean/GeneratorExtension.class">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#524#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1512">
+          <caret line="56" selection-start-line="17" selection-end-line="56" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/cglib/cglib/2.2/cglib-2.2.jar!/net/sf/cglib/beans/BeanCopier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="55" column="33" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/sitemap.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/index/dataFormat.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/sitemap.xsl" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/css/swiper.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="663" column="1" selection-start-line="663" selection-start-column="1" selection-end-line="663" selection-end-column="1" />
-          <folding>
-            <element signature="e#5048#5306#2" expanded="true" />
-            <element signature="e#5407#5665#2" expanded="true" />
-            <element signature="e#5806#6064#2" expanded="true" />
-            <element signature="e#6184#6442#2" expanded="true" />
-            <element signature="e#6562#6820#2" expanded="true" />
-            <element signature="e#6940#7198#2" expanded="true" />
-            <element signature="e#13902#15349#2" expanded="true" />
-            <element signature="e#15475#16919#2" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/vue.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/axios.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="3454" column="3" selection-start-line="3454" selection-start-column="3" selection-end-line="3454" selection-end-column="3" />
+        <state relative-caret-position="815">
+          <caret line="525" column="34" selection-start-line="525" selection-start-column="34" selection-end-line="525" selection-end-column="34" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/jquery-3.4.1.min.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/vue.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="2573" column="3" selection-start-line="2573" selection-start-column="3" selection-end-line="2573" selection-end-column="3" />
+        <state relative-caret-position="173">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -978,82 +998,135 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/swiper.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="2933" column="38" selection-start-line="2933" selection-start-column="38" selection-end-line="2933" selection-end-column="38" />
+        <state relative-caret-position="266">
+          <caret line="987" column="46" selection-start-line="987" selection-start-column="29" selection-end-line="987" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/lib/layui/css/layui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#78362#78501#2" expanded="true" />
+            <element signature="e#80406#80545#2" expanded="true" />
+            <element signature="e#81255#81394#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="102" column="46" selection-start-line="102" selection-start-column="46" selection-end-line="102" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/index/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-588">
-          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+        <state relative-caret-position="1329">
+          <caret line="91" column="57" lean-forward="true" selection-start-line="91" selection-start-column="57" selection-end-line="91" selection-end-column="57" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/index.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/index/tear.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/pages/forbid.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/njr.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/lib/pagination/pagination.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#175410#175549#2" expanded="true" />
+            <element signature="e#177836#177975#2" expanded="true" />
+            <element signature="e#181364#181503#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/njr/n_02.96acf439.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/njr/n_01.b7904a51.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/njr/n_03.d0aff8b5.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/njr/n_04.df0f31ef.jpg" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/public/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/axios.js" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/axios.min.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/pc/njr.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="525" column="34" selection-start-line="525" selection-start-column="34" selection-end-line="525" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="486">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/njr/bannerImages.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/njr/floating_back.7d863d13.png" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/structural.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="55" />
+        <state relative-caret-position="189">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/cityjson.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/njr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/css/news.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5157">
-          <caret line="191" selection-start-line="191" selection-end-line="236" selection-end-column="1" />
+        <state relative-caret-position="465">
+          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/index/product01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/index/product02.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/index/product03.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/index/product04.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/index/product05.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/index/product06.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/news/banner01.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/newsInfo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="187" column="14" selection-start-line="187" selection-start-column="14" selection-end-line="187" selection-end-column="14" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/news.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-525">
-          <caret line="93" column="32" lean-forward="true" selection-start-line="93" selection-start-column="32" selection-end-line="93" selection-end-column="32" />
+        <state relative-caret-position="1242">
+          <caret line="98" column="68" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="68" />
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
@@ -1065,12 +1138,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/woyacy/njr/bean/ComprehensBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="1776" column="30" lean-forward="true" selection-start-line="1776" selection-start-column="30" selection-end-line="1776" selection-end-column="30" />
+          <folding>
+            <element signature="e#66457#66458#0" expanded="true" />
+            <element signature="e#66495#66496#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
+          <folding>
+            <element signature="e#3504#3505#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newsInfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5076">
-          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        <state relative-caret-position="102">
+          <caret line="185" column="88" selection-start-line="185" selection-start-column="88" selection-end-line="185" selection-end-column="88" />
           <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#h2#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -1079,123 +1182,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/contact/banner01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/contact/call01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/contact.html">
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="103" column="69" selection-start-line="103" selection-start-column="69" selection-end-line="103" selection-end-column="69" />
+        <state relative-caret-position="305">
+          <caret line="3210" column="40" selection-start-line="3210" selection-start-column="31" selection-end-line="3210" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="798" column="13" lean-forward="true" selection-start-line="798" selection-start-column="13" selection-end-line="798" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/jre/lib/rt.jar!/java/util/LinkedList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="76" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="76" />
           <folding>
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#h2#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#a#0;n#span#2;n#p#0;n#div#3;n#div#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#21886#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/introduce/banner_btn.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/introduce/honor.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/introduce.html">
+    <entry file="jar://D:/java/jdk/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="127" column="61" selection-start-line="127" selection-start-column="61" selection-end-line="127" selection-end-column="61" />
+        <state relative-caret-position="181">
+          <caret line="479" column="45" lean-forward="true" selection-start-line="479" selection-start-column="45" selection-end-line="479" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="498" column="69" selection-start-line="498" selection-start-column="64" selection-end-line="498" selection-end-column="69" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#h2#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#a#0;n#span#2;n#p#0;n#div#3;n#div#2;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#10189#10190#0" expanded="true" />
+            <element signature="e#10216#10217#0" expanded="true" />
+            <element signature="e#15414#15415#0" expanded="true" />
+            <element signature="e#15459#15460#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/join/banner01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/join/main01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/join.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/woyacy/njr/controller/NewsListController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-363">
-          <caret line="154" column="63" lean-forward="true" selection-start-line="154" selection-start-column="63" selection-end-line="154" selection-end-column="63" />
+        <state relative-caret-position="1113">
+          <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2268">
           <folding>
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#h2#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#a#0;n#span#2;n#p#0;n#div#3;n#div#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#12854#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/product/1/p1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/product/1/p2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/product1.html">
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="121" column="69" selection-start-line="121" selection-start-column="69" selection-end-line="121" selection-end-column="69" />
+        <state relative-caret-position="-4795">
+          <caret line="1005" column="40" lean-forward="true" selection-start-line="1005" selection-start-column="40" selection-end-line="1005" selection-end-column="40" />
           <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#h2#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#a#0;n#span#2;n#p#0;n#div#3;n#div#2;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#39347#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/product3.html">
+    <entry file="jar://D:/java/jdk/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+        <state relative-caret-position="289">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="256" column="38" selection-start-line="256" selection-start-column="21" selection-end-line="256" selection-end-column="38" />
           <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#h2#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#a#0;n#span#2;n#p#0;n#div#3;n#div#2;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#91089#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/product/2/p01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/common/footer_logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/product2.html">
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="219" column="78" lean-forward="true" selection-start-line="219" selection-start-column="16" selection-end-line="219" selection-end-column="78" />
+        <state relative-caret-position="173">
+          <caret line="2224" column="19" selection-start-line="2224" selection-start-column="16" selection-end-line="2224" selection-end-column="19" />
           <folding>
-            <element signature="n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#a#0;n#span#2;n#p#0;n#div#3;n#div#2;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#262622#0" expanded="true" />
+            <element signature="e#44347#44348#0" expanded="true" />
+            <element signature="e#44395#44396#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/PC-NJR-WOYACY/META-INF/MANIFEST.MF" />
+    <entry file="jar://D:/java/jdk/src.zip!/java/lang/NullPointerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#1394#1395#0" expanded="true" />
+            <element signature="e#1417#1418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        <state relative-caret-position="200">
+          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           <folding>
             <element signature="n#h2#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -1204,19 +1307,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="157" selection-start-line="157" selection-end-line="192" selection-end-column="12" />
-          <folding>
-            <element signature="n#properties#0;n#project#0;n#!!top" />
-            <element signature="n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#build#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
   </component>
   <component name="masterDetails">

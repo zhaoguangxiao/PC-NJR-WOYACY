@@ -63,6 +63,7 @@ main .news-left {
 
 main .news-left .newsList {
     width: 100%;
+    margin-left: 217px;
 }
 
 main .news-left .newsList li {

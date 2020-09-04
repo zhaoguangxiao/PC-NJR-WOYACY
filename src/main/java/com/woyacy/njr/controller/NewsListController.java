@@ -13,8 +13,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import java.io.IOException;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * @author Administrator
@@ -25,17 +26,17 @@ import java.util.Map;
 @RequestMapping("new")
 public class NewsListController {
 
+    private static final String URL = "https://manage.zhou-yuanwai.com/comprehens/journalism.do";
+    private static final String FIND_ONE = "https://manage.zhou-yuanwai.com/comprehens/findOne.do";
 
 
-    @RequestMapping(value = "/list",method = RequestMethod.GET)
+    @RequestMapping(value = "/list", method = RequestMethod.GET)
     public String toNewList(@RequestParam Map<String, String> map,
                             Model model) throws IOException {
 
 
-        String url1="https://manage.zhou-yuanwai.com/comprehens/journalism.do";
         //查出全部文章
-        String result = HttpUtil.sendGet(url1, "?uidpk=20");
-        List<ComprehensBean> comprehensBeans = JsonConvertObject.toBaseBean(result);
+        List<ComprehensBean> comprehensBeans = getComprehensBeans();
 
 
         if (map.size() == 0 || map.get("currentPage").isEmpty()) {
@@ -51,21 +52,60 @@ public class NewsListController {
     }
 
 
-
-
-    @RequestMapping(value = "{id}",method = RequestMethod.GET)
+    @RequestMapping(value = "{id}", method = RequestMethod.GET)
     public String newsDetails(@PathVariable("id") Long id,
-                              Model model){
-        String url="https://manage.zhou-yuanwai.com/comprehens/findOne.do";
-        if (null != id){
-            String result = HttpUtil.sendGet(url, "?uidpk="+id);
-            model.addAttribute("newsDetails",JSON.parseObject(result,ComprehensBean.class));
-        }
+                              Model model) {
+
+        String result = HttpUtil.sendGet(FIND_ONE, "?uidpk=" + id);
+        ComprehensBean bean = JSON.parseObject(result, ComprehensBean.class);
+        model.addAttribute("newsDetails", bean);
+
+        // 查出全部文章
+        List<ComprehensBean> comprehensBeans = getComprehensBeans();
+        model.addAttribute("comprehensBeans", comprehensBeans);
+
+        //模糊查询keyword
+        List<ComprehensBean> beans = rnadomByTitle(bean, comprehensBeans);
+        model.addAttribute("randomNews", beans);
         return "newsInfo";
     }
 
+    private List<ComprehensBean> rnadomByTitle(ComprehensBean bean, List<ComprehensBean> comprehensBeans) {
+        ArrayList<ComprehensBean> results = new ArrayList<>();
+        //计算出索引集合
+        HashSet<Integer> indexs = indexFor(comprehensBeans.size(), 5);
 
+        indexs.stream().forEach(each -> {
+            if (!comprehensBeans.get(each).getUidpk().equals(bean.getUidpk())) {
+                results.add(comprehensBeans.get(each));
+            }
+        });
+        return results;
+    }
 
+    private HashSet<Integer> indexFor(int length, int maxlength) {
+        HashSet<Integer> set = new HashSet<>();
+        Random random = new Random();
+        while (set.size() <= maxlength - 1) {
+            set.add(random.nextInt(length));
+        }
+        return set;
+    }
 
+    private List<ComprehensBean> getComprehensBeans() {
+        //查出全部文章
+        String result = HttpUtil.sendGet(URL, "?uidpk=20");
+        return JsonConvertObject.toBaseBean(result);
+    }
+
+    public static void main(String[] args) {
+        Integer i1=100;
+        Integer i2=100;
+
+        Integer i3=1000;
+        Integer i4=1000;
+
+        System.out.println(i1=0-(-127)+1);
+    }
 
 }

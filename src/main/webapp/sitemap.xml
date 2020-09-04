@@ -1,517 +1,570 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 113 Generated at: 2020-06-20 11:21:04 -->
 
+  <url>
+    <loc>http://njrpc.woyacy.com/</loc>
+    <priority>1.00</priority>
+  </url>
 
-<url>
-  <loc>http://njrpc.woyacy.com/</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/introduce.html</loc>
-  <lastmod>2020-05-29T06:41:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/product1.html</loc>
-  <lastmod>2020-05-29T06:34:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/join.html</loc>
-  <lastmod>2020-05-29T06:34:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/list.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/contact.html</loc>
-  <lastmod>2020-05-29T06:42:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/268.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/267.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/266.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/265.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/264.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/263.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/sitemap.txt</loc>
-  <lastmod>2020-05-29T05:34:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/sitemap.html</loc>
-  <lastmod>2020-05-29T06:30:28+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/product2.html</loc>
-  <lastmod>2020-05-29T06:34:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/product3.html</loc>
-  <lastmod>2020-05-29T06:34:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/262.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/261.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/260.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/259.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/176.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/178.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/180.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/181.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/182.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/183.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/184.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/185.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/186.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/187.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/188.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/189.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/190.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/191.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/192.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/193.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/194.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/195.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/196.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/197.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/198.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/199.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/200.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/201.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/202.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/203.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/204.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/205.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/206.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/207.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/208.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/209.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/210.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/211.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/212.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/213.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/214.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/215.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/216.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/217.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/218.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/219.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/220.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/221.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/222.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/223.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/224.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/225.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/226.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/227.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/228.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/229.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/230.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/231.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/232.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/233.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/234.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/235.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/236.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/237.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/238.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/239.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/240.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/241.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/242.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/243.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/244.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/245.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/246.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/247.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/248.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/249.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/250.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/251.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/252.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/253.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/254.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/255.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/256.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/257.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://njrpc.woyacy.com/new/258.html</loc>
-  <lastmod>2020-06-02T08:15:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+  <url>
+    <loc>http://njrpc.woyacy.com/introduce.html</loc>
+    <priority>1.00</priority>
+  </url>
 
+  <url>
+    <loc>http://njrpc.woyacy.com/join.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/product1.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/contact.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/285.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/284.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/283.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/list.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/sitemap.html</loc>
+    <priority>0.99</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/sitemap.txt</loc>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/sitemap.xml</loc>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/product2.html</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/product3.html</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/282.html</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/281.html</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/280.html</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/267.html</loc>
+    <priority>0.72</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/268.html</loc>
+    <priority>0.72</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/list.html?currentPage=11</loc>
+    <priority>0.56</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/176.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/182.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/183.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/184.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/185.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/208.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/254.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/180.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/178.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/181.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/266.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/265.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/264.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/262.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/260.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/259.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/188.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/189.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/190.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/191.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/187.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/192.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/194.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/195.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/196.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/193.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/199.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/200.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/197.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/205.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/206.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/204.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/209.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/210.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/211.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/213.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/214.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/212.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/215.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/216.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/220.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/222.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/223.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/224.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/225.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/226.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/227.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/230.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/231.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/236.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/241.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/243.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/232.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/244.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/247.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/249.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/252.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/255.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/257.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/279.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/278.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/277.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/263.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/261.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/186.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/198.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/201.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/202.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/203.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/207.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/217.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/218.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/221.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/219.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/228.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/229.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/233.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/234.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/235.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/237.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/238.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/239.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/240.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/242.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/245.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/246.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/248.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/250.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/253.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/251.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/258.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/256.html</loc>
+    <priority>0.54</priority>
+  </url>
+
+  <url>
+    <loc>http://njrpc.woyacy.com/new/276.html</loc>
+    <priority>0.54</priority>
+  </url>
 
 </urlset>
